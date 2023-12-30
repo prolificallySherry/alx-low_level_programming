@@ -1,2 +1,2 @@
 #!/bin/bash
-clang -o $CFILE c
+clang -o \[$CFILE\] c
