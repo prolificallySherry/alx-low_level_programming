@@ -6,7 +6,8 @@
  */
 int main(void)
 {
-	char* str1 = "Programming is like building a multilngual puzzle \n";
+	char *str1 = "Programming is like building a multilngual puzzle \n";
+	/* Blank line */
 	puts(str1);
 
 	return (0);
