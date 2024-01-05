@@ -2,9 +2,6 @@
 /**
  * main - Entry point
  *
- * Description: Using puts to print string
- * @parameter: string
- *
  * Return: Always 0 (Success)
  */
 int main(void)
